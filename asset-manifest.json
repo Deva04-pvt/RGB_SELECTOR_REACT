@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RGB_SELECTOR_REACT/static/css/main.72bffb7e.css",
+    "main.js": "/RGB_SELECTOR_REACT/static/js/main.7583718e.js",
+    "static/js/787.f780b82b.chunk.js": "/RGB_SELECTOR_REACT/static/js/787.f780b82b.chunk.js",
+    "index.html": "/RGB_SELECTOR_REACT/index.html",
+    "main.72bffb7e.css.map": "/RGB_SELECTOR_REACT/static/css/main.72bffb7e.css.map",
+    "main.7583718e.js.map": "/RGB_SELECTOR_REACT/static/js/main.7583718e.js.map",
+    "787.f780b82b.chunk.js.map": "/RGB_SELECTOR_REACT/static/js/787.f780b82b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72bffb7e.css",
+    "static/js/main.7583718e.js"
+  ]
+}
